@@ -1,4 +1,4 @@
-# 3D Ball | 3 JS Test
+# 3D Ball App
 
 This project is a simple web application that showcases a 3D ball using the Three.js library. The ball can be interactively rotated by clicking and holding the mouse. The project also demonstrates the use of GSAP (GreenSock Animation Platform) for timeline-based animations and OrbitControls for camera manipulation.
 
@@ -20,8 +20,7 @@ Demo - [Link](https://3dball.vercel.app/)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/3d-ball-app.git`
-
+   https://github.com/TechTronixx/3D-Ball-3js
    ```
 
 2. Navigate to the project directory:
